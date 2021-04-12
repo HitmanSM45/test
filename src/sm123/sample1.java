@@ -6,6 +6,7 @@ public class sample1 {
 		System.out.println("hi Navtej");
 		System.out.println("hi Prathamesh");
 		System.out.println("hello Aniket");
+		System.out.println("Hello shubhamdada from nishant");
 	}
 
 }
